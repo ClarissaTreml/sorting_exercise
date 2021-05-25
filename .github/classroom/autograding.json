@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Selection Sort",
+      "setup": "make exercise5",
+      "run": "./exercise5 Test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "Merge Sort",
+      "setup": "make exercise5",
+      "run": "./exercise5 Test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "Selection Sort with Function Pointer",
+      "setup": "make exercise5",
+      "run": "./exercise5 Test3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    }
+  ]
+}
